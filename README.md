@@ -19,7 +19,8 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/Xrunes/xrunes/main/Pani_poni_dash.gif" width="100px" height="100px">
 </p>
 
-#### Platform&Devices&Tools
+#### Tools
+
 [![](https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=Windows)](https://www.microsoft.com/zh-cn/software-download/windows11)
 [![](https://img.shields.io/badge/Ubuntu-20.04%20LTS-E95420?style=flat-square&logo=Ubuntu)](https://cn.ubuntu.com/download)
 
@@ -39,13 +40,13 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css3&logoColor=ffffff)](https://www.w3.org/TR/css-2020/)
 [![](https://img.shields.io/badge/javaScript-f7df1e?style=flat-square&logo=javascript&logoColor=ffffff)](https://www.javascript.com/)
 
-#### Console&Game
+#### Game
+
 [![](https://img.shields.io/badge/Xbox-MinoriKnight-107C10?style=flat-square&logo=xbox)](https://www.trueachievements.com/gamer/MinoriKnight)
 [![](https://img.shields.io/badge/Steam-夏露恩-000000?style=flat-square&logo=steam)](https://steamcommunity.com/id/xrunes)
 
 #### About
-```text
-💔因一系列智熄操作注销了Github重新注册
 
-🐱‍💻非专业开发者，文艺+网瘾少女
+```text
+⚰️非专业开发者，文艺+网瘾少女
 ```
