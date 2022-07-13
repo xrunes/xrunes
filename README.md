@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css3&logoColor=ffffff)](https://www.w3.org/TR/css-2020/)
 [![](https://img.shields.io/badge/javaScript-f7df1e?style=flat-square&logo=javascript&logoColor=ffffff)](https://www.javascript.com/)
 
-#### Game
+#### Gamertag
 
 [![](https://img.shields.io/badge/Xbox-MinoriKnight-107C10?style=flat-square&logo=xbox)](https://www.trueachievements.com/gamer/MinoriKnight)
 [![](https://img.shields.io/badge/Steam-夏露恩-000000?style=flat-square&logo=steam)](https://steamcommunity.com/id/xrunes)
