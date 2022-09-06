@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Visual%20Studio%20code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=ffffff)](https://www.w3.org/TR/html52/)
 [![](https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css3&logoColor=ffffff)](https://www.w3.org/TR/css-2020/)
-[![](https://img.shields.io/badge/javaScript-f7df1e?style=flat-square&logo=javascript&logoColor=ffffff)](https://www.javascript.com/)
+[![](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=ffffff)](https://www.javascript.com/)
 
 #### Gamertag
 
