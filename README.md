@@ -48,5 +48,6 @@ Here are some ideas to get you started:
 #### About
 
 ```text
-⚰️非专业开发者，文艺+网瘾少女
+🦜Arfeise Harune. You alse could call my nickname Xrunes. 
+⚰️Better at writing fiction than code.
 ```
