@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 #### About
 
 ```text
-🦜Arfeise Harune. You alse could call my nickname Xrunes. 
+🦜Arfeise is my avatar. Arfeise was the epitome of integrity, kindness, gentleness and courage.
+💕You alse could call my nickname Xrunes. 
 ⚰️Better at writing fiction than code.
 ```
