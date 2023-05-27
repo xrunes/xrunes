@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 #### About
 
 ```text
-🦜Arfeise is the representation of integrity, kindness, gentleness and courage.
 💕You alse could call my nickname Xrunes. 
 ⚰️Better at writing fiction than code.
 ```
