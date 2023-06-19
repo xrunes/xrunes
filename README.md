@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/TOSHIBA-P300-FF0000?style=flat-square&logo=TOSHIBA)](https://toshiba-semicon-storage.com/cn/canvio/product/internal/p300.html)
 
 <!--[![](https://img.shields.io/badge/Redmi-Note%207-FA6709?style=flat-square&logo=Xiaomi)](https://www.mi.com/redminote7)纪念我退役的Redmi Note 7-->
-[![](https://img.shields.io/badge/Redmi-Note%209-FA6709?style=flat-square&logo=Xiaomi)](https://www.mi.com/redminote9-4g)
+<!--[![](https://img.shields.io/badge/Redmi-Note%209-FA6709?style=flat-square&logo=Xiaomi)](https://www.mi.com/redminote9-4g)Redmi Note 9已退役-->
+[![](https://img.shields.io/badge/Redmi-Note%2012%20Turbo-FA6709?style=flat-square&logo=Xiaomi)](https://www.mi.com/redmi-note-12-turbo)
 [![](https://img.shields.io/badge/Microsoft-Surface%20Pro%206-5e5e5e?style=flat-square&logo=microsoft&logoColor=ffffff)](https://www.microsoft.com/en-us/surface/devices/surface-pro-6)
 [![](https://img.shields.io/badge/Raspberry%20Pi-4B-C51A4A?style=flat-square&logo=Raspberry%20Pi)](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)
 <!--[![](https://img.shields.io/badge/Audio--Technica-WS660BT-000000?style=flat-square&logo=Audio-Technica)](https://www.audio-technica.com.cn/index.php?op=productdetails&pid=1207&cid=30&sid=50)纪念我退役的WS660BT-->
