@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 #### About
 
 ```text
-🦜Arfeise is a fictional name, what stands for beauty, integrity, bravery.
+<!--🦜Arfeise is a fictional name, what stands for beauty, integrity, bravery.-->
 💕You alse could call my nickname Xrunes. 
 ⚰️Better at writing fiction than code.
 ```
