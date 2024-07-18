@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 #### Gamertag
 
 [![Xbox Icon](https://img.shields.io/badge/Xbox-MinoriKnight-107C10?style=flat-square&logo=xbox)](https://www.trueachievements.com/gamer/MinoriKnight)
-[![Steam Icon](https://img.shields.io/badge/Steam-夏露恩-000000?style=flat-square&logo=steam)](https://steamcommunity.com/id/duokoduoko/)
+[![Steam Icon](https://img.shields.io/badge/Steam-夏露恩-000000?style=flat-square&logo=steam)](https://steamcommunity.com/profiles/76561198365652859/)
 
 #### About
 
