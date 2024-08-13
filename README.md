@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 <!--[![](https://img.shields.io/badge/Audio--Technica-WS660BT-000000?style=flat-square&logo=Audio-Technica)](https://www.audio-technica.com.cn/index.php?op=productdetails&pid=1207&cid=30&sid=50)纪念我退役的WS660BT-->
 
 [![Git Icon](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=ffffff)](https://git-scm.com)
-[![VScode Icon](https://img.shields.io/badge/Visual%20Studio%20code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![HTML Icon](https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=ffffff)](https://www.w3.org/TR/html52/)
 [![CSS Icon](https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css3&logoColor=ffffff)](https://www.w3.org/TR/css-2020/)
 [![JS Icon](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=ffffff)](https://www.javascript.com/)
