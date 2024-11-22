@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 #### Tools
 
+<!--About the missing icon: https://github.com/simple-icons/simple-icons/pull/10019, I hope Microsoft will return in next version.-->
+
 [![Windows Icon](https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=Windows)](https://www.microsoft.com/zh-cn/software-download/windows11)
 [![Ubuntu Icon](https://img.shields.io/badge/Ubuntu-20.04%20LTS-E95420?style=flat-square&logo=Ubuntu)](https://cn.ubuntu.com/download)
 
