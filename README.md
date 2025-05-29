@@ -16,26 +16,40 @@ Here are some ideas to get you started:
 -->
 
 <p>
-    <img src="https://raw.githubusercontent.com/Xrunes/xrunes/main/Pani_poni_dash.gif" width="100px" height="100px">
+    <img src="https://raw.githubusercontent.com/Xrunes/xrunes/main/Pani_poni_dash.gif" alt="buka dash" width="100px" height="100px">
 </p>
 
-#### Tools
+#### System
 
-<!--About the missing icon: https://github.com/simple-icons/simple-icons/pull/10019, I hope Microsoft will return in next version.-->
+<!--
+About the missing icon: https://github.com/simple-icons/simple-icons/pull/10019, I hope Microsoft will return in next version.
+-->
 
-[![Windows Icon](https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=Windows)](https://www.microsoft.com/zh-cn/software-download/windows11)
-[![Ubuntu Icon](https://img.shields.io/badge/Ubuntu-20.04%20LTS-E95420?style=flat-square&logo=Ubuntu)](https://cn.ubuntu.com/download)
+[![Windows Icon](https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TWljcm9zb2Z0IGljb248L3RpdGxlPjxwYXRoIGZpbGw9IiNGNUY1RjUiIGQ9Ik0xMS40IDI0SDBWMTIuNmgxMS40VjI0ek0yNCAyNEgxMi42VjEyLjZIMjRWMjR6TTExLjQgMTEuNEgwVjBoMTEuNHYxMS40em0xMi42IDBIMTIuNlYwSDI0djExLjR6Ii8+PC9zdmc+)](https://www.microsoft.com/zh-cn/software-download/windows11)
+[![Ubuntu Icon](https://img.shields.io/badge/Debian-12.11.0-A81D33?style=flat-square&logo=Debian)](https://www.debian.org/)
+
+#### Devices
 
 [![Intel Icon](https://img.shields.io/badge/Intel-i5--10400F-0071C5?style=flat-square&logo=intel)](https://ark.intel.com/content/www/cn/zh/ark/products/199278/intel-core-i5-10400f-processor-12m-cache-up-to-4-30-ghz.html?wapkw=i5%2010400f)
-[![Nvidia Icon](https://img.shields.io/badge/NVIDIA-RTX%202060-76B900?style=flat-square&logo=NVIDIA)](https://www.nvidia.cn/geforce/graphics-cards/rtx-2060/)
+[![Nvidia Icon](https://img.shields.io/badge/NVIDIA-GTS%20450-76B900?style=flat-square&logo=NVIDIA)](https://www.nvidia.com/content/geforce-gtx/GTS_450_User_Guide.pdf)
 [![Toshiba Icon](https://img.shields.io/badge/TOSHIBA-P300-FF0000?style=flat-square&logo=TOSHIBA)](https://toshiba-semicon-storage.com/cn/canvio/product/internal/p300.html)
 
-<!--[![](https://img.shields.io/badge/Redmi-Note%207-FA6709?style=flat-square&logo=Xiaomi)](https://www.mi.com/redminote7)纪念我退役的Redmi Note 7-->
-<!--[![](https://img.shields.io/badge/Redmi-Note%209-FA6709?style=flat-square&logo=Xiaomi)](https://www.mi.com/redminote9-4g)纪念Redmi Note 9已退役-->
+<!--
+[![](https://img.shields.io/badge/Redmi-Note%207-FA6709?style=flat-square&logo=Xiaomi)](https://www.mi.com/redminote7)
+纪念Redmi Note 7已退役
+[![](https://img.shields.io/badge/Redmi-Note%209-FA6709?style=flat-square&logo=Xiaomi)](https://www.mi.com/redminote9-4g)
+纪念Redmi Note 9已退役
+-->
 [![Redmi Icon](https://img.shields.io/badge/Redmi-Note%2012%20Turbo-FA6709?style=flat-square&logo=Xiaomi)](https://www.mi.com/redmi-note-12-turbo)
-[![RaspberryPi Icon](https://img.shields.io/badge/Raspberry%20Pi-4B-C51A4A?style=flat-square&logo=Raspberry%20Pi)](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)
-<!--[![Surface Icon](https://img.shields.io/badge/Microsoft-Surface%20Pro%206-5e5e5e?style=flat-square&logo=microsoft&logoColor=ffffff)](https://www.microsoft.com/en-us/surface/devices/surface-pro-6)纪念已退役的Surface-->
-<!--[![](https://img.shields.io/badge/Audio--Technica-WS660BT-000000?style=flat-square&logo=Audio-Technica)](https://www.audio-technica.com.cn/index.php?op=productdetails&pid=1207&cid=30&sid=50)纪念我退役的WS660BT-->
+[![RaspberryPi Icon](https://img.shields.io/badge/RaspberryPi-4B-C51A4A?style=flat-square&logo=Raspberry%20Pi)](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)
+<!--
+[![Surface Icon](https://img.shields.io/badge/Microsoft-Surface%20Pro%206-5e5e5e?style=flat-square&logo=microsoft&logoColor=ffffff)](https://www.microsoft.com/en-us/surface/devices/surface-pro-6)
+纪念Surface Pro 6已退役
+[![](https://img.shields.io/badge/Audio--Technica-WS660BT-000000?style=flat-square&logo=Audio-Technica)](https://www.audio-technica.com.cn/index.php?op=productdetails&pid=1207&cid=30&sid=50)
+纪念WS660BT已退役
+-->
+
+#### Tools
 
 [![HTML Icon](https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=ffffff)](https://www.w3.org/TR/html52/)
 [![CSS Icon](https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css3&logoColor=ffffff)](https://www.w3.org/TR/css-2020/)
@@ -44,13 +58,11 @@ Here are some ideas to get you started:
 
 #### Gamertag
 
-[![Xbox Icon](https://img.shields.io/badge/Xbox-MinoriKnight-107C10?style=flat-square&logo=xbox)](https://www.trueachievements.com/gamer/MinoriKnight)
-[![Steam Icon](https://img.shields.io/badge/Steam-夏露恩-000000?style=flat-square&logo=steam)](https://steamcommunity.com/id/riorioko/)
+[![Xbox Icon](https://img.shields.io/badge/Xbox-MinoriKnight-107C10?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+WGJveCBpY29uPC90aXRsZT48cGF0aCBmaWxsPSIjRjVGNUY1IiBkPSJNNC4xMDIgMjEuMDMzQzYuMjExIDIyLjg4MSA4Ljk3NyAyNCAxMiAyNGMzLjAyNiAwIDUuNzg5LTEuMTE5IDcuOTAyLTIuOTY3IDEuODc3LTEuOTEyLTQuMzE2LTguNzA5LTcuOTAyLTExLjQxNy0zLjU4MiAyLjcwOC05Ljc3OSA5LjUwNS03Ljg5OCAxMS40MTd6bTExLjE2LTE0LjQwNmMyLjUgMi45NjEgNy40ODQgMTAuMzEzIDYuMDc2IDEyLjkxMkMyMy4wMDIgMTcuNDggMjQgMTQuODYxIDI0IDEyLjAwNGMwLTMuMzQtMS4zNjUtNi4zNjItMy41Ny04LjUzNiAwIDAtLjAyNy0uMDIyLS4wODItLjA0Mi0uMDYzLS4wMjItLjE1Mi0uMDQ1LS4yODEtLjA0NS0uNTkyIDAtMS45ODUuNDM0LTQuODA1IDMuMjQ2ek0zLjY1NCAzLjQyNmMtLjA1Ny4wMi0uMDgyLjA0MS0uMDg2LjA0MkMxLjM2NSA1LjY0MiAwIDguNjY0IDAgMTIuMDA0YzAgMi44NTQuOTk4IDUuNDczIDIuNjYxIDcuNTMzLTEuNDAxLTIuNjA1IDMuNTc5LTkuOTUxIDYuMDgtMTIuOTEtMi44Mi0yLjgxMy00LjIxNi0zLjI0NS00LjgwNi0zLjI0NS0uMTMxIDAtLjIyMy4wMjEtLjI4MS4wNDZ2LS4wMDJ6TTEyIDMuNTUxUzkuMDU1IDEuODI4IDYuNzU1IDEuNzQ2Yy0uOTAzLS4wMzMtMS40NTQuMjk1LTEuNTIxLjMzOUM3LjM3OS42NDYgOS42NTkgMCAxMS45ODQgMEgxMmMyLjMzNCAwIDQuNjA1LjY0NiA2Ljc2NiAyLjA4NS0uMDY4LS4wNDYtLjYxNS0uMzcyLTEuNTItLjMzOUMxNC45NDYgMS44MjggMTIgMy41NDUgMTIgMy41NDV2LjAwNnoiLz48L3N2Zz4=)](https://www.xbox.com/zh-HK/play/user/MinoriKnight)
+[![Steam Icon](https://img.shields.io/badge/Steam-夏季星-000000?style=flat-square&logo=steam)](https://steamcommunity.com/id/riorioko/)
 
 #### About
 
-<!--🦜Arfeise is a fictional name, what stands for beauty, integrity, bravery.
-💕You alse could call my nickname Xrunes. -->
 ```text
-⚰️Better at writing fiction than code.
+⚰️ Better at writing fiction than code.
 ```
