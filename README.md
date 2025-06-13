@@ -52,7 +52,7 @@ About the missing icon: https://github.com/simple-icons/simple-icons/pull/10019,
 #### Tools
 
 [![HTML Icon](https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=ffffff)](https://www.w3.org/TR/html52/)
-[![CSS Icon](https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css3&logoColor=ffffff)](https://www.w3.org/TR/css-2020/)
+[![CSS Icon](https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+Q1NTMyBpY29uPC90aXRsZT48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMS41IDBoMjFsLTEuOTEgMjEuNTYzTDExLjk3NyAyNGwtOC41NjUtMi40MzhMMS41IDB6bTE3LjA5IDQuNDEzTDUuNDEgNC40MWwuMjEzIDIuNjIyIDEwLjEyNS4wMDItLjI1NSAyLjcxNmgtNi42NGwuMjQgMi41NzNoNi4xODJsLS4zNjYgMy41MjMtMi45MS44MDQtMi45NTYtLjgxLS4xODgtMi4xMWgtMi42MWwuMjkgMy44NTVMMTIgMTkuMjg4bDUuMzczLTEuNTNMMTguNTkgNC40MTR6Ii8+PC9zdmc+&logoColor=ffffff)](https://www.w3.org/TR/css-2020/)
 [![JS Icon](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=ffffff)](https://www.javascript.com/)
 [![Git Icon](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=ffffff)](https://git-scm.com)
 
