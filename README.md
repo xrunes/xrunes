@@ -32,11 +32,11 @@ About the missing icon: https://github.com/simple-icons/simple-icons/pull/10019,
 
 [![Intel Icon](https://img.shields.io/badge/Intel-i5--10400F-0071C5?style=flat-square&logo=intel)](https://ark.intel.com/content/www/cn/zh/ark/products/199278/intel-core-i5-10400f-processor-12m-cache-up-to-4-30-ghz.html?wapkw=i5%2010400f)
 [![AMD Icon](https://img.shields.io/badge/AMD-Radeon%209060XT-ED1C24?style=flat-square&logo=AMD)](https://www.amd.com/zh-cn/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9060xt.html)
+[![Toshiba Icon](https://img.shields.io/badge/TOSHIBA-P300-FF0000?style=flat-square&logo=TOSHIBA)](https://toshiba-semicon-storage.com/cn/canvio/product/internal/p300.html)
 <!--
 [![Nvidia Icon](https://img.shields.io/badge/NVIDIA-GTS%20450-76B900?style=flat-square&logo=NVIDIA)](https://www.nvidia.com/content/geforce-gtx/GTS_450_User_Guide.pdf)
 N卡退役
 -->
-[![Toshiba Icon](https://img.shields.io/badge/TOSHIBA-P300-FF0000?style=flat-square&logo=TOSHIBA)](https://toshiba-semicon-storage.com/cn/canvio/product/internal/p300.html)
 
 <!--
 [![](https://img.shields.io/badge/Redmi-Note%207-FA6709?style=flat-square&logo=Xiaomi)](https://www.mi.com/redminote7)
