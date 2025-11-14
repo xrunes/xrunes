@@ -1,6 +1,6 @@
+<!--
 #### Hi there 👋
 
-<!--
 **Xrunes/xrunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,11 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <p>
     <img src="https://raw.githubusercontent.com/Xrunes/xrunes/main/Pani_poni_dash.gif" alt="buka dash" width="100px" height="100px">
 </p>
+-->
+
+![](./scarlet.webp)
 
 #### System
 
