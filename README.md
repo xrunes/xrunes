@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 -->
 
-![](./scarlet.webp)
+![Scarlet Vandimion](./scarlet_less.webp)
 
 #### System
 
