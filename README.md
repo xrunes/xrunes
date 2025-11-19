@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 -->
 
-![Scarlet Vandimion](./scarlet_less.webp)
+![Scarlet Vandimion](https://gitee.com/xrunes/oss/raw/master/001_xrunes/scarlet_less.webp)
 
 #### System
 
