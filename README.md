@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
 <p>
     <img src="https://raw.githubusercontent.com/Xrunes/xrunes/main/Pani_poni_dash.gif" alt="buka dash" width="100px" height="100px">
 </p>
--->
 
-![Scarlet Vandimion](https://gitee.com/xrunes/oss/raw/master/001_xrunes/scarlet_less.webp)
+<!--![Scarlet Vandimion](https://gitee.com/xrunes/oss/raw/master/001_xrunes/scarlet_less.webp)-->
 
 #### System
 
