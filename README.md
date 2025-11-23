@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 </p>
 -->
 
-![Miku](https://s2.loli.net/2025/11/23/3POXSz6tjfT7nJc.gif)
+<p>
+    <img src="https://s2.loli.net/2025/11/23/3POXSz6tjfT7nJc.gif" alt="Miku" width="100px" height="100px">
+</p>
 
 #### System
 
