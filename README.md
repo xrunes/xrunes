@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 -->
 
-![Scarlet Vandimion](https://s2.loli.net/2025/11/23/gjCDw4dIN8rTmen.webp)
+![Miku](https://s2.loli.net/2025/11/23/3POXSz6tjfT7nJc.gif)
 
 #### System
 
