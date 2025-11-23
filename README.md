@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <p>
-    <img src="https://s2.loli.net/2025/11/23/3POXSz6tjfT7nJc.gif" alt="Miku" width="200px" height="200px">
+    <img src="https://s2.loli.net/2025/11/23/3POXSz6tjfT7nJc.gif" alt="Miku" width="250px" height="250px">
 </p>
 
 #### System
